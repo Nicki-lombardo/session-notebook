@@ -1,4 +1,4 @@
-Improtante:
+**Importante:
 
 1. Variables: "Una variable debe tener un nombre claro, de significado evidente, que describa el dato que almacena."
 
